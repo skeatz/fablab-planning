@@ -4,6 +4,9 @@
    - industry:
      - industry associations
      - tradeshows
+       - [Singapore Design Week](https://sdw.designsingapore.org/)
+       - [Singapore Art Week](https://www.artweek.sg/)
+       - [National Design Centre](https://designsingapore.org/national-design-centre/)
      - exhibitions
      - media: public interest fablab project(s)?
 2. D&T
