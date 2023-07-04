@@ -31,7 +31,7 @@
    - revamp EP1000, EP1001
    - new EP1003
    - furniture making
-   - Christopher Goh (Design SG)
+   - [Christopher Goh, Design Singapore](https://designsingapore.org/)
    - [kin wallet](https://cde.nus.edu.sg/did/), [kickstarter](https://www.kickstarter.com/projects/19308538/kin-worlds-first-wallet-that-sorts-your-cash-in-a/posts/2209453)
    - [SPeeeduino](https://www.instructables.com/SPEEEduino-Setting-It-Up-Version-10/)
    - [Stick'Em](https://stickem.sg/)
