@@ -29,7 +29,7 @@
      - startups
 5. PWE Elective
    - revamp EP1000, EP1001
-   - new EP1003
+   - new EP1003, Make & Sell
    - furniture making
    - [Christopher Goh, Design Singapore](https://designsingapore.org/)
    - [kin wallet](https://cde.nus.edu.sg/did/), [kickstarter](https://www.kickstarter.com/projects/19308538/kin-worlds-first-wallet-that-sorts-your-cash-in-a/posts/2209453)
