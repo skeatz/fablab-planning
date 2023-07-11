@@ -20,4 +20,13 @@
     - Expendigure:
       - FY22: Healthy overall
       - FY23: FL (student teaching supplies) - $221k, student activities - $68k, maintenance of software (FLMS) - $70k ($24k subscription, $36k maint)
-4.  x
+4.  Approver Roles
+    - CCM1 (< 6k): FL (Mark), backup (Chern)
+    - CCM2 (6k - 90k): Ai Ling, Jennifer (backup)
+    - CCM3 (90k - 260k): Suat Hoon
+    - Project manager: Jennifer, Andy
+    - Budget manager: Cher
+    - Accounts payable (FL): Louis, GS
+    - GRO (FL): Bart, HR, Ez (automatially removed on resignation)
+    - BATS (Business Asset Tracking Specialist): FL - Louis 
+6.  x
