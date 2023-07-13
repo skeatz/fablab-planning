@@ -1,0 +1,23 @@
+## Fab23 Bhutan
+1. Large 3D cardboard structure
+   - which animal? **tiger**, **tarkin**, druk, black necked crane
+   - schedule/plan
+     - ideal: start 20 Jul, ready before 23 Jul; otherwise ASAP
+     - check out JNWSFL zund machine
+     - space requirement (4m ht, 12-16m2)
+     - where to display (indoors)
+     - painting: JNW group to assist with logistics
+     - branding: SP/FablabSP
+    - other zund users
+      - kerala: cardboard furniture
+      - SP: cardboard design workshop 25 Jul 1500 - 1900
+        - 3D cardboard design & make workshop
+      - Mark, Steven
+        - assist in building large 3D structure
+        - general help with conduct of workshop
+      - 3D cardboard design & build playbook 
+   - logistics
+     - 3+3 pallets cardboard (x300kg each) to Bhutan, shipped 11/7
+     - cable ties, hole puncher, shears
+     - mini-cardboard sculpture: 100 pcs whale, tiger, bear
+     - check status of zund, spares
